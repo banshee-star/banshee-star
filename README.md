@@ -1,8 +1,8 @@
 # Hi, I'm Mohamed Zanati 👋
 
-Computer science student learning to build real software, one project at a time.
+Engineering student learning to build real software, one project at a time.
 
-- 🎓 Currently studying programming and software development
+- 🎓 Currently studying engineering, with a focus on programming and software
 - 🌱 Learning: data structures & algorithms, web development, object-oriented design
 - 🛠️ Working on: small projects to practice what I learn (coming soon to this profile)
 - 🤝 Open to: collaborating on beginner-friendly and open-source projects
@@ -22,3 +22,4 @@ Computer science student learning to build real software, one project at a time.
 ## GitHub stats
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=banshee-star&show_icons=true&hide_border=true)
+
